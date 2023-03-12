@@ -1,0 +1,26 @@
+.wrapper, h2, h4 {
+    margin-left: 1%;
+}
+
+h2 {
+    color:  #317589;
+}
+
+h4 {
+    color: #003171;
+}
+
+hr {
+    margin-left: 1%;
+    margin-bottom: 10px;
+    width: 20%;
+}
+
+input:hover {
+    cursor: pointer;
+}
+
+.todo {
+    padding: 5px;
+    color: #317589;
+}
